@@ -1,5 +1,5 @@
-package course02.lesson02;
-import course02.lesson02.transport.Car;
+package course02.lesson03;
+import course02.lesson03.transport.Car;
 
 public class Main {
     public static void main(String[] args) {
